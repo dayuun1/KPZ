@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\KPZ-Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7AA815-0F7F-43A2-9955-FCFA39CEA536}|KPZ-Lab1\\KPZ-Lab1.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\kpz-lab1\\kpz-lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB7AA815-0F7F-43A2-9955-FCFA39CEA536}|KPZ-Lab1\\KPZ-Lab1.csproj|solutionrelative:kpz-lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB7AA815-0F7F-43A2-9955-FCFA39CEA536}|KPZ-Lab1\\KPZ-Lab1.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\kpz-lab1\\kpz-lab1\\kpz-lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB7AA815-0F7F-43A2-9955-FCFA39CEA536}|KPZ-Lab1\\KPZ-Lab1.csproj|solutionrelative:kpz-lab1\\kpz-lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\KPZ-Lab1\\KPZ-Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "KPZ-Lab1\\Program.cs",
+              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\KPZ-Lab1\\KPZ-Lab1\\Program.cs",
+              "RelativeToolTip": "KPZ-Lab1\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwHQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:22:05.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KPZ-Lab1",
+              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\KPZ-Lab1\\KPZ-Lab1\\KPZ-Lab1.csproj",
+              "RelativeDocumentMoniker": "KPZ-Lab1\\KPZ-Lab1.csproj",
+              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\KPZ-Lab1\\KPZ-Lab1\\KPZ-Lab1.csproj",
+              "RelativeToolTip": "KPZ-Lab1\\KPZ-Lab1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T15:22:04.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

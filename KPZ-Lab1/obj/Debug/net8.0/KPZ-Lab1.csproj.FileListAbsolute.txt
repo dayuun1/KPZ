@@ -1,0 +1,14 @@
+E:\Навчання\КПЗ лаби\KPZ-Lab1\KPZ-Lab1\bin\Debug\net8.0\KPZ-Lab1.exe
+E:\Навчання\КПЗ лаби\KPZ-Lab1\KPZ-Lab1\bin\Debug\net8.0\KPZ-Lab1.deps.json
+E:\Навчання\КПЗ лаби\KPZ-Lab1\KPZ-Lab1\bin\Debug\net8.0\KPZ-Lab1.runtimeconfig.json
+E:\Навчання\КПЗ лаби\KPZ-Lab1\KPZ-Lab1\bin\Debug\net8.0\KPZ-Lab1.dll
+E:\Навчання\КПЗ лаби\KPZ-Lab1\KPZ-Lab1\bin\Debug\net8.0\KPZ-Lab1.pdb
+E:\Навчання\КПЗ лаби\KPZ-Lab1\KPZ-Lab1\obj\Debug\net8.0\KPZ-Lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Навчання\КПЗ лаби\KPZ-Lab1\KPZ-Lab1\obj\Debug\net8.0\KPZ-Lab1.AssemblyInfoInputs.cache
+E:\Навчання\КПЗ лаби\KPZ-Lab1\KPZ-Lab1\obj\Debug\net8.0\KPZ-Lab1.AssemblyInfo.cs
+E:\Навчання\КПЗ лаби\KPZ-Lab1\KPZ-Lab1\obj\Debug\net8.0\KPZ-Lab1.csproj.CoreCompileInputs.cache
+E:\Навчання\КПЗ лаби\KPZ-Lab1\KPZ-Lab1\obj\Debug\net8.0\KPZ-Lab1.dll
+E:\Навчання\КПЗ лаби\KPZ-Lab1\KPZ-Lab1\obj\Debug\net8.0\refint\KPZ-Lab1.dll
+E:\Навчання\КПЗ лаби\KPZ-Lab1\KPZ-Lab1\obj\Debug\net8.0\KPZ-Lab1.pdb
+E:\Навчання\КПЗ лаби\KPZ-Lab1\KPZ-Lab1\obj\Debug\net8.0\KPZ-Lab1.genruntimeconfig.cache
+E:\Навчання\КПЗ лаби\KPZ-Lab1\KPZ-Lab1\obj\Debug\net8.0\ref\KPZ-Lab1.dll
