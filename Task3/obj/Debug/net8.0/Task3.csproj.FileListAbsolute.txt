@@ -1,0 +1,14 @@
+E:\Навчання\КПЗ лаби\Lab3\Task3\bin\Debug\net8.0\Task3.exe
+E:\Навчання\КПЗ лаби\Lab3\Task3\bin\Debug\net8.0\Task3.deps.json
+E:\Навчання\КПЗ лаби\Lab3\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+E:\Навчання\КПЗ лаби\Lab3\Task3\bin\Debug\net8.0\Task3.dll
+E:\Навчання\КПЗ лаби\Lab3\Task3\bin\Debug\net8.0\Task3.pdb
+E:\Навчання\КПЗ лаби\Lab3\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Навчання\КПЗ лаби\Lab3\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+E:\Навчання\КПЗ лаби\Lab3\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+E:\Навчання\КПЗ лаби\Lab3\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+E:\Навчання\КПЗ лаби\Lab3\Task3\obj\Debug\net8.0\Task3.dll
+E:\Навчання\КПЗ лаби\Lab3\Task3\obj\Debug\net8.0\refint\Task3.dll
+E:\Навчання\КПЗ лаби\Lab3\Task3\obj\Debug\net8.0\Task3.pdb
+E:\Навчання\КПЗ лаби\Lab3\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+E:\Навчання\КПЗ лаби\Lab3\Task3\obj\Debug\net8.0\ref\Task3.dll
