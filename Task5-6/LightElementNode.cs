@@ -7,7 +7,6 @@ public class LightElementNode : LightNode
     public string TagName { get; }
     public List<LightNode> Children { get; } = new();
     public List<string> CssClasses { get; } = new();
-    public Dictionary<string, Action> EventListeners { get; } = new();
 
     public LightElementNode(string tagName)
     {
@@ -22,16 +21,6 @@ public class LightElementNode : LightNode
     {
         CssClasses.Add(className);
     }
-    public void AddEventListener(string eventType, Action handler)
-    {
-        EventListeners[eventType] = handler;
-    }
-    public void TriggerEvent(string eventType)
-    {
-        if (EventListeners.ContainsKey(eventType))
-            EventListeners[eventType].Invoke();
-    }
-
 
     public override string InnerHTML()
     {

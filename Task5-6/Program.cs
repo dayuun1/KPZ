@@ -6,12 +6,10 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        var div = new LightElementNode("div");
-        div.AddClass("container");
-        div.AddChild(new LightTextNode("Натисніть сюди"));
-        div.AddEventListener("click", () => Console.WriteLine("Div натиснуто"));
+        var localImg = new ImageElement("C:/images/photo.jpg", new FileStrategy());
+        var webImg = new ImageElement("https://example.com/photo.jpg", new WebStrategy());
 
-        Console.WriteLine(div.OuterHTML());
-        div.TriggerEvent("click");
+        Console.WriteLine(localImg.OuterHTML());
+        Console.WriteLine(webImg.OuterHTML());
     }
 }
