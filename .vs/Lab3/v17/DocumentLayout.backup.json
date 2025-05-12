@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\iimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\iimageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\webstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\webstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\filestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\filestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\elementfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\elementfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\imageelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\imageelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\lifecycletestnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\lifecycletestnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{904CC2B9-2DF9-4ADC-B536-277927E5DC28}|Task1\\Task1.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904CC2B9-2DF9-4ADC-B536-277927E5DC28}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,110 +42,36 @@
       "DocumentGroups": [
         {
           "DockedHeight": 15,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FileStrategy.cs",
-              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\FileStrategy.cs",
-              "RelativeDocumentMoniker": "Task5-6\\FileStrategy.cs",
-              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\FileStrategy.cs",
-              "RelativeToolTip": "Task5-6\\FileStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T17:02:21.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ElementFactory.cs",
-              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\ElementFactory.cs",
-              "RelativeDocumentMoniker": "Task5-6\\ElementFactory.cs",
-              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\ElementFactory.cs",
-              "RelativeToolTip": "Task5-6\\ElementFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T17:05:06.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebStrategy.cs",
-              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\WebStrategy.cs",
-              "RelativeDocumentMoniker": "Task5-6\\WebStrategy.cs",
-              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\WebStrategy.cs",
-              "RelativeToolTip": "Task5-6\\WebStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T17:05:19.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IImageLoadingStrategy.cs",
-              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\IImageLoadingStrategy.cs",
-              "RelativeDocumentMoniker": "Task5-6\\IImageLoadingStrategy.cs",
-              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\IImageLoadingStrategy.cs",
-              "RelativeToolTip": "Task5-6\\IImageLoadingStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T17:05:41.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ImageElement.cs",
-              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\ImageElement.cs",
-              "RelativeDocumentMoniker": "Task5-6\\ImageElement.cs",
-              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\ImageElement.cs",
-              "RelativeToolTip": "Task5-6\\ImageElement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T17:05:10.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LightElementNode.cs",
-              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LightElementNode.cs",
-              "RelativeDocumentMoniker": "Task5-6\\LightElementNode.cs",
-              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LightElementNode.cs",
-              "RelativeToolTip": "Task5-6\\LightElementNode.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwCUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T17:06:28.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LightNode.cs",
-              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LightNode.cs",
-              "RelativeDocumentMoniker": "Task5-6\\LightNode.cs",
-              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LightNode.cs",
-              "RelativeToolTip": "Task5-6\\LightNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T17:05:52.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\Program.cs",
               "RelativeDocumentMoniker": "Task5-6\\Program.cs",
               "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\Program.cs",
               "RelativeToolTip": "Task5-6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:16:20.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task5.cs",
+              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\Task5.cs",
+              "RelativeDocumentMoniker": "Task5-6\\Task5.cs",
+              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\Task5.cs",
+              "RelativeToolTip": "Task5-6\\Task5.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T17:05:29.046Z",
+              "WhenOpened": "2025-05-12T14:16:18.824Z",
               "EditorCaption": ""
             },
             {
@@ -160,9 +82,74 @@
               "RelativeDocumentMoniker": "Task5-6\\LightTextNode.cs",
               "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LightTextNode.cs",
               "RelativeToolTip": "Task5-6\\LightTextNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T17:05:28.511Z",
+              "WhenOpened": "2025-05-12T14:14:48.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LightNode.cs",
+              "RelativeDocumentMoniker": "Task5-6\\LightNode.cs",
+              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LightNode.cs",
+              "RelativeToolTip": "Task5-6\\LightNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:11:11.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "Task5-6\\LightElementNode.cs",
+              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LightElementNode.cs",
+              "RelativeToolTip": "Task5-6\\LightElementNode.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wCwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:13:40.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task6.cs",
+              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\Task6.cs",
+              "RelativeDocumentMoniker": "Task5-6\\Task6.cs",
+              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\Task6.cs",
+              "RelativeToolTip": "Task5-6\\Task6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:16:42.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LifecycleTestNode.cs",
+              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LifecycleTestNode.cs",
+              "RelativeDocumentMoniker": "Task5-6\\LifecycleTestNode.cs",
+              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LifecycleTestNode.cs",
+              "RelativeToolTip": "Task5-6\\LifecycleTestNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:20:35.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:37:23.367Z",
               "EditorCaption": ""
             }
           ]

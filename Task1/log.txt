@@ -1,3 +1,6 @@
 info: info
 error: error
 warn: warn
+info: info
+error: error
+warn: warn
