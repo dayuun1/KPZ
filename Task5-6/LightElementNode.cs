@@ -11,15 +11,18 @@ public class LightElementNode : LightNode
     public LightElementNode(string tagName)
     {
         TagName = tagName;
+        OnCreated();
     }
 
     public void AddChild(LightNode child)
     {
         Children.Add(child);
+        child.OnInserted();
     }
     public void AddClass(string className)
     {
         CssClasses.Add(className);
+        OnClassListApplied();
     }
 
     public override string InnerHTML()
@@ -32,7 +35,13 @@ public class LightElementNode : LightNode
 
     public override string OuterHTML()
     {
+        OnStylesApplied();
         string _class = CssClasses.Count > 0 ? $" class=\"{string.Join(" ", CssClasses)}\"" : "";
         return $"<{TagName}{_class}>{InnerHTML()}</{TagName}>";
+    }
+    public override void OnTextRendered()
+    {
+        foreach (var child in Children)
+            child.OnTextRendered();
     }
 }

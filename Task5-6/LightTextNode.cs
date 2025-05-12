@@ -13,15 +13,17 @@ namespace Task5_6
         public LightTextNode(string text)
         {
             Text = text;
+            OnCreated();
         }
 
         public override string OuterHTML()
         {
+            OnTextRendered();
             return Text;
         }
         public override string InnerHTML()
         {
-            return Text;
+            return OuterHTML();
         }
     }
 }
