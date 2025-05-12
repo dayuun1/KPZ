@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\depthiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\depthiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\breadthiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\breadthiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|solutionrelative:task5-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6413467B-CE36-429A-96E3-7BBDC4C896F9}|Task5-6\\Task5-6.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\lab3\\task5-6\\lifecycletestnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +54,50 @@
       "DocumentGroups": [
         {
           "DockedHeight": 15,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BreadthIterator.cs",
+              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\BreadthIterator.cs",
+              "RelativeDocumentMoniker": "Task5-6\\BreadthIterator.cs",
+              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\BreadthIterator.cs",
+              "RelativeToolTip": "Task5-6\\BreadthIterator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:15:54.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepthIterator.cs",
+              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\DepthIterator.cs",
+              "RelativeDocumentMoniker": "Task5-6\\DepthIterator.cs",
+              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\DepthIterator.cs",
+              "RelativeToolTip": "Task5-6\\DepthIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:10:50.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IIterator.cs",
+              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\IIterator.cs",
+              "RelativeDocumentMoniker": "Task5-6\\IIterator.cs",
+              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\IIterator.cs",
+              "RelativeToolTip": "Task5-6\\IIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:08:53.064Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,14 +107,14 @@
               "RelativeDocumentMoniker": "Task5-6\\Program.cs",
               "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\Program.cs",
               "RelativeToolTip": "Task5-6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T14:16:20.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Task5.cs",
               "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\Task5.cs",
               "RelativeDocumentMoniker": "Task5-6\\Task5.cs",
@@ -71,12 +122,11 @@
               "RelativeToolTip": "Task5-6\\Task5.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:16:18.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T14:16:18.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "LightTextNode.cs",
               "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LightTextNode.cs",
               "RelativeDocumentMoniker": "Task5-6\\LightTextNode.cs",
@@ -84,12 +134,11 @@
               "RelativeToolTip": "Task5-6\\LightTextNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:14:48.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T14:14:48.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "LightNode.cs",
               "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LightNode.cs",
               "RelativeDocumentMoniker": "Task5-6\\LightNode.cs",
@@ -102,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "LightElementNode.cs",
               "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LightElementNode.cs",
               "RelativeDocumentMoniker": "Task5-6\\LightElementNode.cs",
@@ -110,12 +159,11 @@
               "RelativeToolTip": "Task5-6\\LightElementNode.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAA4wCwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:13:40.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T14:13:40.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Task6.cs",
               "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\Task6.cs",
               "RelativeDocumentMoniker": "Task5-6\\Task6.cs",
@@ -123,12 +171,11 @@
               "RelativeToolTip": "Task5-6\\Task6.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:16:42.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T14:16:42.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "LifecycleTestNode.cs",
               "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task5-6\\LifecycleTestNode.cs",
               "RelativeDocumentMoniker": "Task5-6\\LifecycleTestNode.cs",
@@ -136,12 +183,11 @@
               "RelativeToolTip": "Task5-6\\LifecycleTestNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:20:35.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T14:20:35.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\Task1\\Program.cs",
               "RelativeDocumentMoniker": "Task1\\Program.cs",
@@ -149,8 +195,7 @@
               "RelativeToolTip": "Task1\\Program.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:37:23.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T11:37:23.367Z"
             }
           ]
         }
