@@ -19,5 +19,9 @@ namespace Task5_6
 
         public override string InnerHTML() => string.Empty;
         public override string OuterHTML() => _strategy.LoadImage(_href);
+        public override void Accept(IVisitor visitor)
+        {
+            visitor.VisitImageNode(this);
+        }
     }
 }

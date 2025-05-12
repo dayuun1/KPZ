@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Diagnostics.Tracing;
 using System.Text;
+using Task5_6;
 
 public class LightElementNode : LightNode
 {
@@ -43,5 +44,11 @@ public class LightElementNode : LightNode
     {
         foreach (var child in Children)
             child.OnTextRendered();
+    }
+    public override void Accept(IVisitor visitor)
+    {
+        visitor.VisitElementNode(this);
+        foreach (var child in Children)
+            child.Accept(visitor); 
     }
 }
