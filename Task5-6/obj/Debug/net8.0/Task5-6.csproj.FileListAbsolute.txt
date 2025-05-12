@@ -12,3 +12,4 @@ E:\Навчання\КПЗ лаби\Lab3\Task5-6\obj\Debug\net8.0\refint\Task5-6
 E:\Навчання\КПЗ лаби\Lab3\Task5-6\obj\Debug\net8.0\Task5-6.pdb
 E:\Навчання\КПЗ лаби\Lab3\Task5-6\obj\Debug\net8.0\Task5-6.genruntimeconfig.cache
 E:\Навчання\КПЗ лаби\Lab3\Task5-6\obj\Debug\net8.0\ref\Task5-6.dll
+E:\Навчання\КПЗ лаби\Lab3\Task5-6\obj\Debug\net8.0\Task5-6.sourcelink.json
