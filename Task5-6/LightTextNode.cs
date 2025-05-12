@@ -25,5 +25,9 @@ namespace Task5_6
         {
             return OuterHTML();
         }
+        public override void Accept(IVisitor visitor)
+        {
+            visitor.VisitTextNode(this);
+        }
     }
 }

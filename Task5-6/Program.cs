@@ -8,18 +8,15 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        var div = new StateElement("div");
-        div.AddChild(new LightTextNode("Dan"));
+        var div = new LightElementNode("div");
+        div.AddChild(new LightTextNode("Hello"));
+        div.AddChild(new ImageElement("logo.png", new FileStrategy()));
+        div.AddChild(new LightElementNode("p"));
 
-        div.ShowState(); 
+        var counter = new CountVisitor();
+        div.Accept(counter);
 
-        div.SetState(new HiddenState());
-        div.ShowState(); 
+        Console.WriteLine($"Text: {counter.TextNodeCount}, Elements: {counter.ElementNodeCount}, Images: {counter.ImageNodeCount}");
 
-        div.SetState(new ErrorState());
-        div.ShowState();
-
-        div.SetState(new DisabledState());
-        div.ShowState();
     }
 }
